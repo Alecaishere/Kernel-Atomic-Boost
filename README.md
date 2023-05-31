@@ -1,7 +1,7 @@
 # Kernel-Atomic-Boost for Debian based distros
 Este kernel es para procesadores Intel de bajo rendimiento.
 
-La edición Core ees solo para Pentium en adelante, pero si estás usando un procesador de un solo núcleo (1 físico/2 lógicos, ambos son lo mismo, eso se llama HyperThreading) los Atom o Celeron, deben usar la edición Lite.
+La edición Core es solo para Pentium en adelante, pero si estás usando un procesador de un solo núcleo (1 físico/2 lógicos, ambos son lo mismo, eso se llama HyperThreading) los Atom o Celeron, deben usar la edición Lite.
 
 ____________________________________________________________________________________________________________________________________________________________________
 
