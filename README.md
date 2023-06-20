@@ -1,9 +1,10 @@
-# Kernel-Atomic-Boost
-Este kernel es para procesadores intel atom single core, (Solo las primeras 2 versiones son compatibles en el sentido de que aprovechan los procesadores multicore) , (RECALCO SINGLE CORE, aunque en multicore funciona pero no rendirá como debe).
+# Kernel-Atomic-Boost for Debian based distros
+Este kernel es para procesadores Intel de bajo rendimiento.
 
-Si sabéis de algún tweak importante o de alguna configuración que ayude a bajar el consumo de memoria o cualquier otra cosa que ayude a mejorar el rendimiento o la estabilidad comentadla en los issues.
+La edición Core es solo para Pentium en adelante, pero si estás usando un procesador de un solo núcleo (1 físico/2 lógicos, ambos son lo mismo, eso se llama HyperThreading) los Atom o Celeron, deben usar la edición Lite.
 
+____________________________________________________________________________________________________________________________________________________________________
 
-La versión Lite está basada en el kernel 5.4, en las siguientes versiones meteré features que no puse porque se me olvidaron.
+This kernel is for low end intel processors.
 
-La versión Core es lo mismo pero para los Core 2 en adelante...
+Core edition It's only for Pentium onwards but If you're using a single core (1 physical/2 logics both are the same thing, it's name is HyperThreading) but on Atom or Celeron You should use Lite edition.
